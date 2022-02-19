@@ -1,0 +1,1 @@
+"C:\Users\%USERNAME%\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" execute --file C:\Users\%USERNAME%\Documents\UiPath\Day2_WebScrapping_into_Excel\WebScrapping_IntoExcel.xaml
